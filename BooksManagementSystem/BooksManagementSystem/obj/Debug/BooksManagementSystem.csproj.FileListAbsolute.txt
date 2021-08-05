@@ -1,0 +1,52 @@
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe.config
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.pdb
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmAuthors.resources
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.Properties.Resources.resources
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.GenerateResource.cache
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.CoreCompileInputs.cache
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.exe
+c:\users\windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.pdb
+C:\Users\Windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmPublishers.resources
+C:\Users\Windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmTitles.resources
+C:\Users\Windows\source\repos\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmSearch.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe.config
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.pdb
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csprojAssemblyReference.cache
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmAuthors.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmPublishers.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmSearch.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmTitles.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.Properties.Resources.resources
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.GenerateResource.cache
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.exe
+E:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.pdb
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe.config
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.pdb
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csprojAssemblyReference.cache
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmAuthors.resources
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmPublishers.resources
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmSearch.resources
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmTitles.resources
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.Properties.Resources.resources
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.GenerateResource.cache
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.exe
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.pdb
+F:\Courses\[FreeCourseSite.com] Udemy - C# - Programming Database Driven Windows Forms Desktop Apps\6. Books Management System - CRUD Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.welcomeForm.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe.config
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.exe
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\bin\Debug\BooksManagementSystem.pdb
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csprojAssemblyReference.cache
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmAuthors.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmPublishers.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmSearch.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.frmTitles.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.Properties.Resources.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.welcomeForm.resources
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.GenerateResource.cache
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.exe
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.pdb
+E:\1University\6th Semester\VP\Project\BooksManagementSystem\BooksManagementSystem\obj\Debug\BooksManagementSystem.csproj.CoreCompileInputs.cache
